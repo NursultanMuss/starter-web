@@ -1,2 +1,3 @@
 ignoreDir/
 log/
+*.orig
