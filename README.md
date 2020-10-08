@@ -17,7 +17,15 @@ another bla bla bla
 another chage to see change
 
 ## How to Contribute
-and make some changes to help me 
+and make some changes to help me
+sbssdfsdfsd
+
+sd
+sa
+da
+sd
+asd
+a
 
 ###Copyright
 
