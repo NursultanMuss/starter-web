@@ -17,3 +17,7 @@ another bla bla bla
 another chage to see change
 
 ## How to Contribute
+
+###Copyright
+
+2020 Git Training
