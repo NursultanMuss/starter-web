@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work
+Adding a line for searching
 
 ## Introduction
 This is example is to show different parts of the Git repo
